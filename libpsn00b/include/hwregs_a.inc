@@ -3,8 +3,8 @@
 
 ## Constants
 
-.set IOBASE,			0xbf80
-.set EXP1BASE,			0xbf00
+.set IOBASE,			0x1f80
+.set EXP1BASE,			0x1f00
 
 .set F_CPU,				33868800
 .set F_GPU,				53222400
