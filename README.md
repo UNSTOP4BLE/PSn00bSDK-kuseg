@@ -12,7 +12,7 @@ most of the core functionality of the official Sony SDK (excluding higher-level
 libraries) plus several new extensions to it. Most of the basic APIs commonly
 used by homebrew apps and games built with the official SDK are available,
 making PSn00bSDK a good starting point for those who have an existing codebase
-but want to move away from Sony tools.
+but want to move away from Sony tools. 
 
 Currently supported features include:
 
